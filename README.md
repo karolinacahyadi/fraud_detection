@@ -1,6 +1,7 @@
 # fraud_detection
 
-This project utilizes machine learning techniques to detect fraud in transactional data. We employed three types of models: Logistic Regression, Random Forest, and XGBoost to classify transactions as normal or fraudulent.
+This project utilizes machine learning techniques to detect fraud in transactional data.
+Types of models: Logistic Regression, Random Forest, and XGBoost.
 
 ### Model Evaluation Results:
 
